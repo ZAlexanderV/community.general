@@ -9,7 +9,7 @@ DOCUMENTATION = r'''
     plugin_type: inventory
     short_description: Yandex.Cloud Compute inventory source
     requirements:
-      - yandexcloud==0.10.1
+      - yandexcloud==0.260.0
     extends_documentation_fragment:
       - constructed
       - inventory_cache
